@@ -217,7 +217,7 @@ and delete tasks.
                 <div className="grid gap-4 sm:grid-cols-2">
                   <div>
                     <Label htmlFor="name">Name</Label>
-                    <Input id="name" placeholder="John Doe" required />
+                    <Input id="name" placeholder="Name" required />
                   </div>
                   <div>
                     <Label htmlFor="email">Email</Label>
