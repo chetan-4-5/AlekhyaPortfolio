@@ -150,7 +150,7 @@ and delete tasks.
               <div className="space-y-2">
                 <h2 className="text-3xl font-bold tracking-tighter sm:text-4xl">Skills</h2>
                 <p className="text-muted-foreground max-w-[600px] md:text-lg">
-                  Here are some of the technologies I'm proficient in.
+                  Here are some of the technologies I&apos;m proficient in.
                 </p>
               </div>
               <div className="grid gap-4 sm:grid-cols-2 lg:grid-cols-3">
